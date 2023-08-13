@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Armin-Dzafo
 - 👀 I’m interested in programming, front-end, back-end, all-ends ...
-- 🌱 I’m currently learning Mule 4 MUnit testing
+- 🌱 Every day I'm learning new things
 - 📫 How to reach me:
   - [LinkedIn](https://ba.linkedin.com/in/armin-dzafo)
 
